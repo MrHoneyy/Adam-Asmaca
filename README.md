@@ -1,1 +1,1 @@
-# Python - Adama Asmca Oyunu
+# Python - Adama Asmaca Oyunu
